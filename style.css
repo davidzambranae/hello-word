@@ -5,3 +5,7 @@ h1 {
     color: navy;
     margin-left: 20px;
 }
+div img {
+    width: 100%;
+    max-width: 960px;
+}
